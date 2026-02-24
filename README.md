@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧬 ProViz — Structural Bioinformatics Suite
 ### **v2.4.1 — BETA**
 
@@ -51,3 +52,7 @@
 
 ## 📜 License
 © 2026 ProViz Suite · Academic & Research Use Only.
+=======
+# Protein-analysis-site
+This is a website although runs on local host cause m too lazy to deploy it, can give u a 3d view of any protein in the database.
+>>>>>>> 311aae083ab501cb880375e3aaf1c0cb8bc12cb0
